@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>hello-python</title>
+      <link href="/2020/04/12/hello-python/"/>
+      <url>/2020/04/12/hello-python/</url>
+      
+        <content type="html"><![CDATA[<p>Python 的官方介绍是： Python 是一种简单易学，功能强大的编程语言，它有高效率的高层数据结构，简单而有效地实现面向对象编程。<a id="more"></a> Python 简洁的语法和对动态输入的支持，再加上解释性语言的本质，使得它在大多数平台上的许多领域都是一个理想的脚本语言，特别适用于快速的应用程序开发.</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> pyCharm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/04/11/hello-world/"/>
       <url>/2020/04/11/hello-world/</url>

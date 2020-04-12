@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://destiny-max.github.io/"/>
-  <updated>2020-04-11T02:16:04.781Z</updated>
+  <updated>2020-04-12T06:34:00.860Z</updated>
   <id>http://destiny-max.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-python</title>
+    <link href="http://destiny-max.github.io/2020/04/12/hello-python/"/>
+    <id>http://destiny-max.github.io/2020/04/12/hello-python/</id>
+    <published>2020-04-12T06:12:30.000Z</published>
+    <updated>2020-04-12T06:34:00.860Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Python 的官方介绍是： Python 是一种简单易学，功能强大的编程语言，它有高效率的高层数据结构，简单而有效地实现面向对象编程。
+    
+    </summary>
+    
+    
+    
+      <category term="Python" scheme="http://Destiny-Max.github.io/tags/Python/"/>
+    
+      <category term="pyCharm" scheme="http://Destiny-Max.github.io/tags/pyCharm/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
