@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>MyBlog</title>
   
-  
+  <subtitle>Welcome to MyBlog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://destiny-max.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://destiny-max.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>XU</name>
     
   </author>
   
