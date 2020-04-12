@@ -6,17 +6,17 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://destiny-max.github.io/"/>
-  <updated>2020-04-11T02:16:04.781Z</updated>
+  <updated>2020-04-12T09:40:50.632Z</updated>
   <id>http://destiny-max.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://destiny-max.github.io/2020/04/11/hello-world/"/>
-    <id>http://destiny-max.github.io/2020/04/11/hello-world/</id>
-    <published>2020-04-11T02:16:04.781Z</published>
-    <updated>2020-04-11T02:16:04.781Z</updated>
+    <title>hello-java</title>
+    <link href="http://destiny-max.github.io/2020/04/12/hello-java/"/>
+    <id>http://destiny-max.github.io/2020/04/12/hello-java/</id>
+    <published>2020-04-12T08:23:34.000Z</published>
+    <updated>2020-04-12T09:40:50.632Z</updated>
     
     <summary type="html">
     
@@ -24,13 +24,161 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;介绍:&lt;/p&gt;
+
         
       
     
     </summary>
     
     
+      <category term="java的学习" scheme="http://Destiny-Max.github.io/categories/java%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="java" scheme="http://Destiny-Max.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python实战</title>
+    <link href="http://destiny-max.github.io/2020/04/12/python-shi-zhan/"/>
+    <id>http://destiny-max.github.io/2020/04/12/python-shi-zhan/</id>
+    <published>2020-04-12T08:23:00.000Z</published>
+    <updated>2020-04-12T09:42:24.165Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;介绍:&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python的学习" scheme="http://Destiny-Max.github.io/categories/python%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://Destiny-Max.github.io/tags/Python/"/>
+    
+      <category term="pyCharm" scheme="http://Destiny-Max.github.io/tags/pyCharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python进阶</title>
+    <link href="http://destiny-max.github.io/2020/04/12/python-jin-jie/"/>
+    <id>http://destiny-max.github.io/2020/04/12/python-jin-jie/</id>
+    <published>2020-04-12T08:22:39.000Z</published>
+    <updated>2020-04-12T09:42:14.445Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;介绍:&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python的学习" scheme="http://Destiny-Max.github.io/categories/python%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://Destiny-Max.github.io/tags/Python/"/>
+    
+      <category term="pyCharm" scheme="http://Destiny-Max.github.io/tags/pyCharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python基础</title>
+    <link href="http://destiny-max.github.io/2020/04/12/python-ji-chu/"/>
+    <id>http://destiny-max.github.io/2020/04/12/python-ji-chu/</id>
+    <published>2020-04-12T08:22:04.000Z</published>
+    <updated>2020-04-12T09:41:36.223Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;介绍:&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python的学习" scheme="http://Destiny-Max.github.io/categories/python%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://Destiny-Max.github.io/tags/Python/"/>
+    
+      <category term="pyCharm" scheme="http://Destiny-Max.github.io/tags/pyCharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythonn入门</title>
+    <link href="http://destiny-max.github.io/2020/04/12/pythonn-ru-men/"/>
+    <id>http://destiny-max.github.io/2020/04/12/pythonn-ru-men/</id>
+    <published>2020-04-12T08:21:38.000Z</published>
+    <updated>2020-04-12T09:41:16.262Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;介绍:&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python的学习" scheme="http://Destiny-Max.github.io/categories/python%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://Destiny-Max.github.io/tags/Python/"/>
+    
+      <category term="pyCharm" scheme="http://Destiny-Max.github.io/tags/pyCharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello-python</title>
+    <link href="http://destiny-max.github.io/2020/04/12/hello-python/"/>
+    <id>http://destiny-max.github.io/2020/04/12/hello-python/</id>
+    <published>2020-04-12T06:12:30.000Z</published>
+    <updated>2020-04-12T08:32:58.572Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/python.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;Python 的官方介绍是：
+    
+    </summary>
+    
+    
+      <category term="python的学习" scheme="http://Destiny-Max.github.io/categories/python%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://Destiny-Max.github.io/tags/Python/"/>
+    
+      <category term="pyCharm" scheme="http://Destiny-Max.github.io/tags/pyCharm/"/>
     
   </entry>
   
